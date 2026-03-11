@@ -2,9 +2,6 @@ package org.skypro.skyshop.product;
 
 
 
-import java.util.InputMismatchException;
-import java.util.Set;
-
 public class DiscountedProduct extends Product {
     public int basePrice;
     public int discount;

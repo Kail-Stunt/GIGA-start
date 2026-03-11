@@ -1,5 +1,6 @@
 package org.skypro.skyshop.exeptions;
 
+
 import java.io.IOException;
 
 public class BestResultNotFoundException extends IOException {

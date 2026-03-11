@@ -2,10 +2,6 @@ package org.skypro.skyshop.product;
 
 import org.skypro.skyshop.search.Searchable;
 import java.util.Objects;
-import java.util.Set;
-
-
-import java.util.Objects;
 
 public final class Article implements Searchable {
     private final String articleName;
